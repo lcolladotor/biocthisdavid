@@ -77,7 +77,7 @@ R. Please run this yourself to check for any updates on how to cite
 **biocthisdavid**.
 
 ``` r
-print(citation('biocthisdavid'), bibtex = TRUE)
+print(citation("biocthisdavid"), bibtex = TRUE)
 #> 
 #> lcolladotor (2020). _Example package_. doi:
 #> 10.18129/B9.bioc.biocthisdavid (URL:

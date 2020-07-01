@@ -72,7 +72,7 @@ Below is the citation output from using `citation('biocthisdavid')` in R. Please
 run this yourself to check for any updates on how to cite __biocthisdavid__.
 
 ```{r 'citation', eval = requireNamespace('biocthisdavid')}
-print(citation('biocthisdavid'), bibtex = TRUE)
+print(citation("biocthisdavid"), bibtex = TRUE)
 ```
 
 Please note that the `biocthisdavid` was only made possible thanks to many other R and bioinformatics software authors, which are cited either in the vignettes and/or the paper(s) describing this package.
